@@ -1,2 +1,13 @@
+body {
+    background-image: url(https://img.freepik.com/premium-photo/people-are-filling-out-their-resume-job-application-form-apply-job-company_11304-2288.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+form {
+    margin-left: 250px;
+    margin-top:30px;
+    margin-bottom:30px;
+    padding:30px;
+}
 
 /* Your CSS Code here. */
