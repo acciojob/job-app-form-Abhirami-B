@@ -3,11 +3,13 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
 } 
+h1 {
+    text-align: center;
+}
 form {
     margin-left: 250px;
-    margin-top:30px;
+    
     margin-bottom:30px;
-    padding:30px;
 }
 
 /* Your CSS Code here. */
